@@ -98,15 +98,15 @@
 //     console.log('-------------');
 // }
 
-var ar = [1, 2, 7, 3, 5, 4, 8];
+// var ar = [1, 2, 7, 3, 5, 4, 8];
 
-var SortedAr = ar.sort();
+// var SortedAr = ar.sort();
 
-var b = SortedAr.splice(SortedAr.length - 2, 2);
+// var b = SortedAr.splice(SortedAr.length - 2, 2);
 
-ar.push(b[1] - b[0]);
+// ar.push(b[1] - b[0]);
 
-console.log(ar);
+// console.log(ar);
 
 // var ar = [1, 2, 8, 3, 5, 5, 8];
 
@@ -140,3 +140,53 @@ console.log(ar);
 //         }
 //     })
 //     console.log(ar[i]);
+
+// var yosh = 17;
+
+
+// if ( yosh > 18 ) {
+//     console.log('xa mashina xaydash mumkun');
+// } else if (yosh == 18) {
+//     console.log('pravaga oqw kere');
+// }
+// else {
+//     console.log( 'yoq moshina xaydash taqiqlanad');
+// } 
+
+
+
+
+
+
+
+// var yosh = 22;
+
+// if (yosh > 21) {
+//     console.log('xa siz chet elga ishlashga ketishingiz mumkun');
+// } else if ( yosh == 21 ) {
+//     console.log('siz qizil passport olishingiz kere');
+// } else {
+//     console.log('yoq siz xali kota bollishingiz kere');
+// }
+
+// let a = 'webBrain Academy'
+
+// console.log(a.repeat(6));
+
+
+// for (let salom = 0; salom < 10; salom++ ){
+//     console.log(salom, 'nma gap');
+// }
+
+
+// function obj(num1 = 0, num2 = 0) {
+//     console.log(num1 + num2);
+//     return function (num3 = 0) {
+//         console.log(num1 + num2 + num3);
+//     };
+// }
+
+// obj(1,2);
+// obj(1)(2);
+
+console.log(2);
