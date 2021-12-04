@@ -190,3 +190,6 @@
 // obj(1)(2);
 
 console.log(2);
+
+var a ='zato push qildm'
+console.log(a);
